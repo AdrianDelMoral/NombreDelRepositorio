@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-abr-2020, 19:17:27
+    Author     : Adrian Del Moral
+*/
+
+.negro{
+   -fx-background-color: black; 
+   -fx-text-fill: white;
+}
+
+.naranja{
+    -fx-background-color: orange;
+    -fx-border-color: grey;
+    -fx-border-width: 2px; 
+}
+
+.gris{
+    -fx-background-color:  #A9A9A9;
+    -fx-border-color: grey;
+    -fx-border-width: 2px; 
+}
